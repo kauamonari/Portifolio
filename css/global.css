@@ -22,6 +22,15 @@ img {
   display: block;
 }
 
+a{
+  text-decoration: none;
+  color: black;
+}
+
+a:hover{
+  color:#800add;
+}
+
 .subtitulo{
   font-size: 8rem;
   line-height: 1;
